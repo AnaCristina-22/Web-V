@@ -9,7 +9,6 @@ body {
     background-color: #111;
 }
 
-/* HEADER */
 .header {
     background: rgba(0, 0, 0, 0.6);
     backdrop-filter: blur(4px);
@@ -20,7 +19,6 @@ body {
     color: white;
 }
 
-/* LOGO */
 .logo {
     display: flex;
     align-items: center;
@@ -41,7 +39,6 @@ body {
     font-weight: normal;
 }
 
-/* NAV */
 .nav {
     display: flex;
     gap: 25px;
@@ -57,7 +54,6 @@ body {
     color: #1abc9c;
 }
 
-/* CONTACTO */
 .contact {
     display: flex;
     align-items: center;
